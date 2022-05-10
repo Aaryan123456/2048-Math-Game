@@ -1,2 +1,1 @@
-# 2048-Math-Game
-Test Your Math And Your Game Skills 
+# 2048-Game
